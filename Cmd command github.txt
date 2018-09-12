@@ -1,0 +1,43 @@
+Windows cmd.exe Commands for GitHub
+
+Clear screen
+cls
+
+Cloning
+git clone /*website*/
+
+Check available files
+dir
+
+Check your status
+git status
+(You can see which branch you're in)
+(See changes to be committed)
+(See untracked files)
+
+Add files
+git add /*filename1*/ /*filename2*/ ... /*filenameN*/
+
+Add all files on current directory
+git add .
+
+Commit files
+git commit -m"/*your comment here*/"
+
+Push
+git push
+(Give the newest files on github)
+
+Pull
+git pull
+(Getting the newest files on github)
+
+Branches list
+git branch
+(Current branch will have * mark)
+
+Make a new branch
+git branch /*branchname*/
+
+Move to another branch
+git checkout /*branchname*/
