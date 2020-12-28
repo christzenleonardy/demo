@@ -44,3 +44,6 @@ git branch /*branchname*/
 
 Move to another branch
 git checkout /*branchname*/
+
+Undoing latest commit
+git reset --soft HEAD~1
