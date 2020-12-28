@@ -3,6 +3,9 @@ Windows cmd.exe Commands for GitHub
 Clear screen
 cls
 
+Initialize
+git init
+
 Cloning
 git clone /*website*/
 
